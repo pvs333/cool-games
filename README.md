@@ -2,7 +2,7 @@
 
 [**Itch.io**](http://Itch.io) **page ->** [**https://luckysury333.itch.io/**](https://luckysury333.itch.io/)
 
-**Recommended Games to Play (In order of best to worst)**
+**Recommended Games to Play (Most recommended to least recommended)**
 
 * Magnet Murderer (Browser Game - Partially Touch Friendly on Browser) - [https://luckysury333.itch.io/magnet-murderer-post-jam](https://luckysury333.itch.io/magnet-murderer-post-jam)
 * Project StealthX (Browser Game - Touch Friendly on Browser) - [https://luckysury333.itch.io/project-stealthx](https://luckysury333.itch.io/project-stealthx)
